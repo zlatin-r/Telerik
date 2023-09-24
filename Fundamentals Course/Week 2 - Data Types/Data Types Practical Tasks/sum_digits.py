@@ -1,0 +1,6 @@
+num = input()
+first = int(num[0])
+second = int(num[1])
+third = int(num[2])
+fourth = int(num[3])
+print(first + second + third + fourth)
